@@ -23,9 +23,9 @@ Ejercicios para demostrar lo aprendido en el primer momento
 *Kevin Morales Gomez*
 ***
 ### Ejecutar:
-`python ejercicio1.py`   
-`python ejercicio2.py`   
-`python ejercicio3.py`   
+`python ejercicioUno.py`   
+`python ejercicioDos.py`   
+`python ejercicioTres.py`   
 ***
 
 ### Enlaces relacionados
